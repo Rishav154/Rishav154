@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Machine learning and Full stack Web development 
 
 
